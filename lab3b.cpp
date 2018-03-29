@@ -1,7 +1,7 @@
 /*
 		File Name: lab3.cpp	
 		Author: Isaac Ephrem	
-		Date: March 29, 2018
+		Date: March 29, 2016
 		Purpose: Writing a program that calculates the price, quantity, taxes, and total of apples bought
 */
 
