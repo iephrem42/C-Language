@@ -1,7 +1,7 @@
 /*
 		File Name: lab1.cpp	
 		Author: Isaac Ephrem	
-		Date: March 29, 2018
+		Date: March 29, 2016
 		Purpose: My first C++ program!
 */	
 #include <iostream>
