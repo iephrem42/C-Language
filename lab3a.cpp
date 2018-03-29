@@ -1,8 +1,8 @@
 /*
 		File Name: lab3.cpp	
 		Author: Isaac Ephrem	
-		Date: March 29, 2018
-		Purpose: Writing a program that calculates circumference and area
+		Date: March 29, 2016
+		Purpose: Writing a program that calculates the number of slices of pizza
 */
 
 #include <iostream>
