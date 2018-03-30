@@ -2,7 +2,7 @@
 		File Name: lab1.cpp	
 		Author: Isaac Ephrem	
 		Date: March 29, 2016
-		Purpose: My first C++ program!
+		Purpose: Writing a program to calculate the circumference and area of a circle.
 */	
 #include <iostream>
 using namespace std;
